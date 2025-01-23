@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hello World  
+=======
+Welcome to to the new
+
+>>>>>>> 74fac0a7c3daf70153f9cc251e78d499c7d431e6
